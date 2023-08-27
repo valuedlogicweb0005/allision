@@ -1,0 +1,261 @@
+.navbar {
+    --bs-navbar-padding-x: none !important; 
+    --bs-navbar-padding-y: 0 !important;
+    background-color: transparent;
+    --bs-navbar-toggler-border-color: none !important;
+    --bs-navbar-toggler-focus-width: none !important;   
+}
+.picture{
+    width: 80%;
+}
+.bg-body-tertiary{
+    background-color:#112f6e !important;
+    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1),5px 5px 15px rgba(0, 0, 0, 0.2) !important;
+}
+@media(min-width:1000px){
+    .media1{
+        display: none !important;
+    }
+}
+@media(max-width:1000px){
+    .media2{
+        display: none !important;
+    }
+}
+.home2{
+    color: black !important;
+    font-weight: bold;
+    font-size: 15px;
+}
+.home1{
+     color:#ededed!important;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.pic{
+    height: 300px;
+    width: 300px;
+}
+@media(min-width:1000px){
+    .d-block{
+        height: 600px;
+        margin-top: 0px;
+    }
+}
+@media(max-width:1000px){
+    .d-block{
+        height: 100%;
+        margin-top: 90px;
+    }
+}
+.blue5{
+    background-color: #112f6e;
+}
+.marquee{
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 5px 0px 5px 0px;
+}
+.image{
+    width: 100%;
+    border-radius: 5px;
+}
+.grey{
+    color: gray;
+} 
+.read-more-btn{
+    border: none;
+    color: white;
+    background-color: rgb(211, 19, 83);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.read-more-btn:hover{
+    background-color: orange;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.center2{
+    text-align: center;
+}
+.inputsearch{
+    width: 70%;
+    height: 50px;
+    border: 1px solid rgb(165, 164, 164);
+    border-radius: 6px;
+
+}
+.Online-Courses{
+    font-weight: bold;
+}
+@media(max-width:1160px){
+    .mediax{
+        display: none !important;
+    }
+}
+@media(min-width:1160px){
+    .mediay{
+        display: none !important;
+    }
+}
+.blue{
+    background-color: rgb(1, 36, 82);
+    padding: 20px 0px 20px 0px;
+}
+.million{
+    color: white;
+}
+.million2{
+    color: white;
+    font-size: 20px;
+}
+.right{
+    float: right;
+}
+.light{
+    background-color:  rgba(108, 117, 146, 0.548);
+    width: 100px;
+    padding: 5px 0px 1px 0px ;
+    border-radius: 10px;
+}
+@media(max-width:1200px){
+    .con2{
+        display: none;
+    }
+}
+@media(min-width:1200px){
+    .con1{
+        display: none;
+    }
+}
+.learners{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.box1{
+    height: 100% !important;
+    background-color:#fafafd;
+   margin: 10px;
+   width: 300px;
+   min-width: 10%;
+   font-size: 17px;
+   border-radius: 10px;  
+   height: 150px;
+   padding-left: 0px !important;
+   box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1),5px 5px 15px rgba(0, 0, 0, 0.2) !important;
+}
+.Diploma{
+    color: rgb(83, 83, 83);
+    padding: 20px;
+}
+.learners1{
+    float:right;
+}
+.time{
+    color: #949494;
+    padding: 20px ;
+}
+.More-Info{
+    color: #949494;
+    background-color: transparent;
+    border: 1px solid #949494;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px ;
+    margin: 0px 20px 20px 20px ;
+}
+.Start-Learning{
+    color: white;
+    font-weight: bold;
+    background-color:#112f6e;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px ;
+}
+.intro{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.Fundamental-health{
+    color: rgb(83, 83, 83);
+    padding: 10px 20px 9px 20px ;
+}
+.google{
+    padding: 10px 25px 10px 25px;
+}
+.Leading-Experts{
+    text-align: center;
+    font-size: 20px;
+    color: #727272;
+    font-weight: bold;
+}
+.production{
+    padding: 90px 0px 90px 0px;
+}
+.underpins{
+    font-style: italic;
+    font-size: 19px;
+    color: #464646;
+}
+.flex2{
+    display: flex;
+}
+.Mike{
+    color: rgb(0, 119, 255);
+    font-size: 18px;
+    padding: 40px 0px 0px 10px ;
+}
+.ceo{
+    color: #464646 ;
+}
+.carlos{
+    background-color: rgb(202, 218, 221);
+    padding: 30px 0px 30px 0px;
+    margin: 50px 0px 0px 0px;
+}
+.Ireland{
+    font-weight: bold;
+    color: #1e3568;
+}
+.Founded-In{
+    font-size: 20px;
+    color:#464646;
+}
+.grow-upskills{
+    font-weight: bold;
+}
+.range{
+    color: #727272;
+}
+.Our-Story{
+    text-decoration: none;
+    font-weight: bold;
+}
+.footer{
+    background-color: #1e3568;
+    padding: 10px 0px 0px 0px;
+}
+.leading{
+    color: #aaaaaa;
+    font-size: 17px;
+}
+.bi{
+    margin-left: 15px;
+}
+.white{
+    color: white;
+}
+@media(max-width:900px){
+    .copyright{
+        text-align: center;
+    }
+}
+.Copyright{
+    background-color: #273044;
+    padding: 15px 0px 15px 0px ;
+    color: rgb(211, 211, 211);
+}
